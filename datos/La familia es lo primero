@@ -1,0 +1,13 @@
+tipo:Gasolina Plus:5000:5000.0
+tipo:Gasolina Regular:2500:200.0
+tipo:Gasolina Premium:10000:2500.0
+tipo:Gasolina Amigable:1000:100.0
+surtidor:Wade Wilson:Gasolina Plus:0.0:Gasolina Regular:0.0:Gasolina Premium:0.0:Gasolina Amigable:0.0
+surtidor:Benjamin Tenison:Gasolina Plus:0.0:Gasolina Regular:0.0:Gasolina Premium:0.0:Gasolina Amigable:0.0
+surtidor:Wade Wilson:Gasolina Plus:0.0:Gasolina Regular:0.0:Gasolina Premium:0.0:Gasolina Amigable:0.0
+surtidor:Vladimir Toretto:Gasolina Plus:0.0:Gasolina Regular:0.0:Gasolina Premium:0.0:Gasolina Amigable:0.0
+empleado:Finn Mertens:0
+empleado:Ash Ketchum:0
+empleado:Vladimir Toretto:0
+empleado:Wade Wilson:0
+empleado:Benjamin Tenison:0
